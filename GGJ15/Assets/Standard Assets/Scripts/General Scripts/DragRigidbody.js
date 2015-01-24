@@ -5,6 +5,7 @@ var angularDrag = 5.0;
 var distance = 0.2;
 var attachToCenterOfMass = false;
 
+
 private var springJoint : SpringJoint;
 
 function Update ()
