@@ -118,20 +118,7 @@ Sleep -1 food +3 health
 The next day <name> set off again towards the mountain planning to pass the wizard tower in the hope that he could give him a magical artifact to help him defeat Ebonwing.
 His hopes were not high however as this wizard was known to be tempermental and had a dislike for adventurers.
 
-However between him and the wizard tower was a large river with a small stone bridge across it. <name> could see no other way than to cross the river than to take the bridge so made his way to it to make the crossing.
-
-As you cross the bridge a Merman leaps from the river blocking your path.
-He addresses you.
-"Halt! To cross this bridge you must pay the toll. Ten coins"
-
-1.pay the toll
-2. fight the merman ( 10 health 3+ to do 1 damage)
-3.barter with him (both 2 and 3 go to fight)
-
-After crossing the bridge <name> decides now would be a good time to rest as the hour is late and he still had far to travel before facing his final foe.
-rest (-1 food +3 health)
-
-The next day <name> arrived at the wizards tower and knocked on the door
+<name> arrived at the wizards tower and knocked on the door
 "what the hell do you want?!" He shouted from the top portcullis
 1. I seek help to defeat the dragon Ebonwing
 2. Don't be so rude and let me in
@@ -140,38 +127,4 @@ The next day <name> arrived at the wizards tower and knocked on the door
 1. will sell magic sword for 50 gold (3+ to hit 7 damage)
 2. tells you to piss off continue on your way
 3. fight the wizard hit on 4+ 4 damage 10 health. gain magic sword on victory and potion of healing
-
-After leaving the wizard tower <name> believes he can finally take on the dragon. He finds a cave to rest in before the final leg of his journey takes him up the mountainside to Ebonwing's lair.
-(rest -1 food +3 health)
-
-The following morning the hero departs, his conscience heavy with the task at hand but his heart light with the thought of justice. He had heard tales of a golem who guarded the dragons lair but wether he would find it or not was yet to be seen. Starting up the mountain he climbed the rockface grasping whatever ledge or handhold he could. Ascending ever higher till he came to a cliff edge with several pedestals. These pedestals surrounded a large pile of boulders and on one of the pedestals was a glass phial filled with a dark red liquid.
-
-Take the phial gain 1 health potion summon golem
-golem hits on 4+ 3 damage 15 health
-
-leave the phial progress to next scene.
-
-
-DRAGONS CAVE OOOOHOHOOHOHOHOHOHOH
-
-As <name> enters the cave of the beast he see's his mortal enemy straight away. A great black dragon coiled around itself slumbering as if oblivious to the torture and pain he causes to the victims of his fiery rampage. Drawing his sword he readies himself for what could be his last battle, and charges.
-
-Dragon 4+ to do 2 damage 40 health
-
-end of tale of scale.
-
-So my lad that is my tale. What did you think? would you like to hear another?
-
-1. yes load gin alley banditos
-2. no quit program
-
-
-
-
-
-
-
-
-THE GIN ALLEY BANDITOS
-
 
