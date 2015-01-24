@@ -4,7 +4,7 @@ using System.Collections;
 public class GameDataScript : MonoBehaviour {
 
 	//setting a string for the player to be referenced later in other code
-	public string playerName="test";
+	public static string playerName="";
 
 	// Use this for initialization
 	void Start () {

@@ -29,12 +29,7 @@ public class MainMenuScript : MonoBehaviour {
 
 				if (GUI.Button (new Rect (Screen.width / 2 - buttonWidth / 2,
 		                        buttonYposition, buttonWidth, buttonHeight), "start")) {
-						GameObject gameData = GameObject.Find ("GameData");
-						if (gameData != null) {
-								GameDataScript
-								gameDataScript = gameData.GetComponent<GameDataScript> ();
-								gameDataScript.playerName = nameText;
-						}
+								GameDataScript.playerName = nameText;
 
 						Application.LoadLevel ("tavernScene");
 				}
