@@ -20,8 +20,10 @@ public class healthRegainSleepRoadScript : MonoBehaviour {
 				if (GUI.Button (new Rect (500, 300, 100, 50), "Huzzah!")) {
 				GameDataScript.health ++;		
 				GameDataScript.health ++;	
-				GameDataScript.health ++;	
+				GameDataScript.health ++;
+				GameDataScript.food --;
 			Debug.Log(GameDataScript.health);
+			Debug.Log (GameDataScript.food);
 				Application.LoadLevel ("theRoadEndBandits");
 				}
 
