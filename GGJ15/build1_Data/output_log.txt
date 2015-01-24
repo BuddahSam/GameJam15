@@ -2,48 +2,23 @@ Initialize engine version: 4.6.1f1 (d1db7a1b5196)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 860M     (ID=0x1392)
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
     Vendor:   NVIDIA
-    VRAM:     1972 MB
+    VRAM:     2962 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.060 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sam\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Ryan\Documents\GitHub\GameJam15\GGJ15\build1_Data\Managed\System.Core.dll (this message is harmless)
-UnloadTime: 0.289436 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 135.
-Total: 0.579283 ms (FindLiveObjects: 0.012316 ms CreateObjectMapping: 0.009442 ms MarkObjects: 0.126038 ms  DeleteObjects: 0.003284 ms)
-
-UnloadTime: 0.272193 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 135.
-Total: 0.642507 ms (FindLiveObjects: 0.005337 ms CreateObjectMapping: 0.006568 ms MarkObjects: 0.130964 ms  DeleteObjects: 0.002052 ms)
-
-UnloadTime: 0.178177 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 135.
-Total: 0.412600 ms (FindLiveObjects: 0.019295 ms CreateObjectMapping: 0.006979 ms MarkObjects: 0.078414 ms  DeleteObjects: 0.002052 ms)
-
-UnloadTime: 0.204863 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 135.
-Total: 0.408084 ms (FindLiveObjects: 0.005337 ms CreateObjectMapping: 0.006979 ms MarkObjects: 0.077593 ms  DeleteObjects: 0.001642 ms)
-
