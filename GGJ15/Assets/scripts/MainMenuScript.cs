@@ -13,12 +13,17 @@ public class MainMenuScript : MonoBehaviour {
 	public int buttonYstart=300;
 	string nameText ="";
 
+	public GUISkin skin;
+
 	void OnGUI(){
+			
+		GUI.skin = skin;
 
 				GUI.DrawTexture (new
 		                Rect (0, 0, Screen.width , Screen.height), backGroundTexture);
 				nameText = GUI.TextField (new Rect (Screen.width / 2 -
 						100.0f, 50.0f, 100.0f, 20.0f), nameText);
+		GUI.Label (new Rect (Screen.width / 2 - 250, 50, 100, 50), "Please enter your name");
 
 				int buttonYposition = buttonYstart;
 
@@ -31,7 +36,7 @@ public class MainMenuScript : MonoBehaviour {
 								gameDataScript.playerName = nameText;
 						}
 
-						Application.LoadLevel ("mainLevel");
+						Application.LoadLevel ("tavernScene");
 				}
 						buttonYposition += buttonSpacing;
 
