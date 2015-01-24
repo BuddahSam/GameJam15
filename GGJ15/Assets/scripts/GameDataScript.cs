@@ -3,8 +3,10 @@ using System.Collections;
 
 public class GameDataScript : MonoBehaviour {
 
-	//setting a string for the player to be referenced later in other code
 	public static string playerName="";
+	public static int food=0;
+	public static int health =10;
+	public static int gold = 0;
 
 	// Use this for initialization
 	void Start () {

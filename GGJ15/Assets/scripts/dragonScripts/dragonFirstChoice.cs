@@ -12,9 +12,6 @@ public class dragonFirstChoice : MonoBehaviour {
 		
 				GUI.DrawTexture (new
 		                 Rect (0, 0, Screen.width, Screen.height), backGroundTexture);
-				//GameObject playerData = GameObject.Find ("playerData");
-				//GameDataScript GameDataScript = GetComponents<GameDataScript>;
-				//GameDataScript.playerName = playerData;
 		
 		GUI.Label (new Rect (10, 10, Screen.width - 10, Screen.height - 10), GameDataScript.playerName + "'s story begins after his village was burned to the ground by Ebonwing and in his rage vowed to end the dragons life. " +
 		           "Searching among the rubble he found his fathers sword, broken and burnt (3 damage, hits on 3+), as well as a few coins and some burnt food. He took it anyway as it was all he had " +

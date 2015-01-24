@@ -13,8 +13,8 @@ public class theRoadScript : MonoBehaviour {
 				GUI.DrawTexture (new
 		                 Rect (0, 0, Screen.width, Screen.height), backGroundTexture);
 		
-				GUI.Label (new Rect (10, 10, Screen.width - 10, Screen.height - 10), "As " + GameDataScript.playerName + " travelled down the road a party of travellers accompanying a caravan travel towards him." +
-						"They greet him in a friendly manner and ask him what his business is on the road.");
+				GUI.Label (new Rect (10, 10, Screen.width - 10, Screen.height - 10), "As " + GameDataScript.playerName + " travelled down the road a party of " +
+					"travellers accompanying a caravan travel towards him. They greet him in a friendly manner and ask him what his business is on the road.");
 		
 				if (GUI.Button (new Rect (200, 300, 150, 50), "Tell them your quest")) {
 						Application.LoadLevel ("roadOption1");
@@ -23,7 +23,7 @@ public class theRoadScript : MonoBehaviour {
 						Application.LoadLevel ("theRoadEnd");
 				}
 				if (GUI.Button (new Rect (750, 300, 240, 50), "Attack the caravan in the hope of loot")) {
-						Application.LoadLevel ("roadOption2");
+						Application.LoadLevel ("manBattle");
 				}
 		}
 
