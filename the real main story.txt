@@ -1,0 +1,177 @@
+Begin with 2d6 food
+begin with 10 health
+begin with 5d6 gold
+
+
+Like all good fantasy tales begin, you find yourself in a tavern. After a particularly long evening of drinking and social adventure you find yourself in the company of a wizened old man who earlier introduced himself as Cecard Dain,
+a grand storyteller of sorts. He has enthralled you with his tales of daring and heroism and left you thirsting for more. After bringing more drinks to the table he sits down and looks you in the eye.
+
+"So young man, what story do you wish to hear now?"
+"A tale of daring exploits and dragons or a story of long lost treasure guarded by a band of bloodthirsty bandits"
+
+option 1: A tale of scale
+
+option 2 : the gin alley banditos
+
+A tale of scale
+
+"Aah so it is dragons you are interested in. Many people who take an interest in dragons find themselves wishing they hadn't. However there was one hero who managed to best the strongest dragon in the land, Ebonwing. He went by the name of 
+<insertplayernamehere> and before him there was no hope for mankind. Only fire. But he took it upon himself to bring an end to the reign of the dragons to save humanity and bring peace to the land."
+
+"<insertplayernamehere>'s story begins after his village was burned to the ground by Ebonwing and in his rage vowed to end the dragons life. Searching among the rubble he found his fathers sword, broken and burnt (3 damage hit on 3+)
+, as well as a few coins and some burnt food. He took it anyway as it was all he had left. Setting off from his ruined house he thought about how best to deal with the dragon. He could travel along the road to the mountain where he resided. 
+This would be quicker but the roads are dangerous and often people are attacked by raiders or worse. Or he could take the path through the forest. The forest would be slow but he could hunt for food and find plenty of water in the streams
+ to keep himself supplied, although the elfs who live there might not be happy about him killing the wildlife they consider theirs."
+
+
+
+Road - 
+As <name> travelled down the road a party of travellers accompanying a caravan travel towards him. They greet him in a friendly manner and ask him what his business is on the road.
+
+1. Tell them your quest
+Shocked at your tale they offer you food to help you on your travels (+2 food)
+2. Politely decline and be on your way
+continue to next scene
+3. attack the caravan in the hope of loot
+2 men hit on 5-6 2 damage 5 health
+if victorious loot 60 gold and find shortsword (5 damage hit on 4+) and 4 food
+
+Departing from the caravan <name> finds he doesn't get far before the sun begins to set and feels it is time to stop and rest. He could either sleep beside the road and hope nobody passes by or he could spend time looking for somewhere 
+further afield from the road to rest.
+1. sleep by the road you are robbed for half your gold and food during the night
+
+2 sleep afield nothing happens.
+
+regain 3 health for sleeping
+lose one food
+
+
+The next day after a few hours travelling you see a town on the horizon on the road, but between our hero and that town a pair of men stand on the road, arms folded and a mean look on their faces. These men spot you and draw swords.
+He sees no other option than to stand and fight.
+
+2 men hit on 5-6 2 damage 5 health.
+50 gold and 2 food for victory.
+
+Forest - 
+Entering the forest <name> is immediately enclosed and surrounded by a thicket of trees and finds advancing difficult. Using his sword to hack his way through the brushes and low hanging branches he begins to make headway into the dense
+foliage until he finds a tree which looks suitable for climbing. Deciding to climb this to see what way to travel he start to ascend. (rolls a dice on a 1-2 fall back down and lose one health. repeat till successful)
+Upon reaching the top of the canopy he see's the other edge of the forest and knows what way to go. But it is also getting dark. He can use this time to hunt or he can just rely on his own supplies lest face the wrath of the forest
+denizens.
+If you go hunting gain 2 food but have to fight one elf
+elf hit on 3+ 3 damage 4 health.
+
+regain 3 health for sleeping
+lose one food
+
+The next day he makes his way through the forest. It takes many hours but eventually he finds his way to the edge and he can see a small town on the horizon. He decides it's a good idea to go there and makes his way towards it.
+
+After reaching the town he sees that there are a few shops, a church and an alchemist where he might be able to pick up some supplies for his travels to the dragons lair.
+shop sells food for 5 gold a piece
+sells a shortsword for 30 gold (5 damage hit on 4+)
+
+alchemist sells potion of stoutness (+4 max health) 40 gold
+sells healing potion (heals 1d6 health) 20 gold
+
+church sells a blessing for 30 gold (next time you would die ignore it on a 2+, one use only)
+
+<name> leaves from the town towards the mountain. Every step towards it fills him more with hate for the dragon which took everything from him. He knew that he would avenge his family or die in the process. This did not matter to him though as all he had on his mind was vengeance.
+
+The mountain was 3 days away and he knew that reaching it would not be easy. The closer to the mountain the more dangers he would face and it would be likely that the dragons lair would be guarded by monsters who had thrown their lot in with him to spare themselves from his fire.
+
+<name> knew that to reach the mountain he would either have to pass by the orc camp to the north or try and avoid it by passing through the tunnels to the west which were well known to be infested with kobolds.
+
+walk past the orc camp-
+As much as he tries to sneak past the orc camp he happens to come across an orc hunting party bringing back that nights dinner. They immediately go to attack him dropping their hunt along the way.
+
+2 orcs health 7 hit on 6, 3 damage
+
+after defeating the orcs you take their game for yourself as well as what little gold they had on them
++2 food +10 gold
+
+<name> travelled past the orc camp till he felt he was safe before taking the time to rest as the mountain in the distance almost seemed like it was taunting him. Telling him he would never succeed. This only strengthened his will and urged him onwards.
+-1 food + 3 health
+
+go through the tunnels - 
+Heading through the tunnels <name> comes to a fork in his path. Down one path there is a faint light at the end but the distinct noise of kobolds chattering. The other was silent but the darkness was infinite and there was no telling how long the tunnel would go on for.
+
+Light tunnel-
+Find four kobolds
+4 health 6+ to hit for 1 damage
+no loot
+
+dark tunnel -
+no event
+
+Reaching the end of the tunnels he emerged into blinding sunlight but the mountain was that much closer to him. Looming over him like some eternal reminder to his recent loss. Taking a moment to rest and eat he sat and focused on his quest.
+- 1 food + 3 health
+
+Travelling onwards <name> looks for a place to rest as the sun was setting and he did not want to travel in the dark. He could see a rocky outcrop which he could take shelter under or there was a small forest further in the distance.
+
+rocky outcrop
+sleep normal -1 food gain 3 health
+
+forest attacked by a bear
+health 10 hit on 5-6 damage 3
++1 food
+Sleep -1 food +3 health
+
+The next day <name> set off again towards the mountain planning to pass the wizard tower in the hope that he could give him a magical artifact to help him defeat Ebonwing.
+His hopes were not high however as this wizard was known to be tempermental and had a dislike for adventurers.
+
+However between him and the wizard tower was a large river with a small stone bridge across it. <name> could see no other way than to cross the river than to take the bridge so made his way to it to make the crossing.
+
+As you cross the bridge a Merman leaps from the river blocking your path.
+He addresses you.
+"Halt! To cross this bridge you must pay the toll. Ten coins"
+
+1.pay the toll
+2. fight the merman ( 10 health 3+ to do 1 damage)
+3.barter with him (both 2 and 3 go to fight)
+
+After crossing the bridge <name> decides now would be a good time to rest as the hour is late and he still had far to travel before facing his final foe.
+rest (-1 food +3 health)
+
+The next day <name> arrived at the wizards tower and knocked on the door
+"what the hell do you want?!" He shouted from the top portcullis
+1. I seek help to defeat the dragon Ebonwing
+2. Don't be so rude and let me in
+3. I will slay you if you speak to me like that again wizard.
+
+1. will sell magic sword for 50 gold (3+ to hit 7 damage)
+2. tells you to piss off continue on your way
+3. fight the wizard hit on 4+ 4 damage 10 health. gain magic sword on victory and potion of healing
+
+After leaving the wizard tower <name> believes he can finally take on the dragon. He finds a cave to rest in before the final leg of his journey takes him up the mountainside to Ebonwing's lair.
+(rest -1 food +3 health)
+
+The following morning the hero departs, his conscience heavy with the task at hand but his heart light with the thought of justice. He had heard tales of a golem who guarded the dragons lair but wether he would find it or not was yet to be seen. Starting up the mountain he climbed the rockface grasping whatever ledge or handhold he could. Ascending ever higher till he came to a cliff edge with several pedestals. These pedestals surrounded a large pile of boulders and on one of the pedestals was a glass phial filled with a dark red liquid.
+
+Take the phial gain 1 health potion summon golem
+golem hits on 4+ 3 damage 15 health
+
+leave the phial progress to next scene.
+
+
+DRAGONS CAVE OOOOHOHOOHOHOHOHOHOH
+
+As <name> enters the cave of the beast he see's his mortal enemy straight away. A great black dragon coiled around itself slumbering as if oblivious to the torture and pain he causes to the victims of his fiery rampage. Drawing his sword he readies himself for what could be his last battle, and charges.
+
+Dragon 4+ to do 2 damage 40 health
+
+end of tale of scale.
+
+So my lad that is my tale. What did you think? would you like to hear another?
+
+1. yes load gin alley banditos
+2. no quit program
+
+
+
+
+
+
+
+
+THE GIN ALLEY BANDITOS
+
+
