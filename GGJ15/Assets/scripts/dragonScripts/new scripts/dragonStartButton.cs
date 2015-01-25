@@ -1,8 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class dragonStartButton : MonoBehaviour {
 
+	public void dragonStart (string dragonStart)
+	{
+				Application.LoadLevel ("dragonFirstChoice");
+		}
 	// Use this for initialization
 	void Start () {
 	

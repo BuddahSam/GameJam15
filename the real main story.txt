@@ -174,4 +174,51 @@ So my lad that is my tale. What did you think? would you like to hear another?
 
 THE GIN ALLEY BANDITOS
 
+I thought I saw the lust for treasure in your eyes. Very well. The tale of GameDataScript.playerName is not one for the faint hearted. He was a bloodthirsty scoundrel who cared only for gold no matter the means to obtain it.
 
+It starts as it always does with bandits. From the bottom. A lowlife living in the backstreet of Gin Alley full of cutthroats and worse. GameDataScript.playerName was not the best of thieves but he tried, and it was his persistance that made him great.
+
+Late one night in the local jewellers he finds himself starting intently at a large opal necklace kept in a glass cabinet.
+He already had a sizeable amount of loot, but something about this opal compelled him to take it.
+
+1. take the opal used later
+2. leave the opal nothing happens
+
+1.managing to successfully cut the glass he grabs the necklace and makes his way out of the store silently before anyone awakens to notice his being there. (go to 2)
+
+2. after taking your acquisations to the local fence he had a tidy sum of gold . He had big plans with this gold to set up his own ring of thieves to start a new black market ring in Gin Alley and the surrounding area.
+
+There were two men he had in mind which he wanted to lead his band and keep them on their toes so they would'nt get lazy and end up leading the local guard back to GameDataScript.playerName.
+The first of which was a brawler. A guy who was notorious among the local pubs for never knowing when to stop during a fight and more often than not left his foe dead in the street. The other, a sneak, a real snake of a man who had never been linked to any crime but was too rich for any man to make legitimately in this festering pit of a town.
+
+The decision was tough but each members would bring their own benefits to the group, and most importantly, to him.
+
+1.brawler dude
+gives a shortshort and 1 potion of healing
+
+2 sneaky dude
+gives +50 gold due to "contacts"
+
+option 1.
+To recruit this guy GameDataScript.playerName would have to go to the roughest place in Gin Alley. Upon arrival all eyes were on him and his eyes were on his quarry. He approached him and proposed his deal to him.
+"If you want me to join you then you gotta prove you got the muscle to keep me around, fight me out back in five minutes"
+He handed the thief a dagger (sword int = 0) and left through the back door laughing to himself as he did.
+
+Fight the bruiser 
+5+ to hit 3 damage 9 health
+
+upon success joins your crew and then gain the shortsword and potion NOT before.
+
+"Not bad boy. I look forward to throwing myself around the people you want out the way in the future."
+
+
+option 2.
+The sneak would be tough to find but he had a rough idea of where to look for him. There was an abandoned clocktower in the northern part of town which GameDataScript.playerName had heard a rumour that he was hiding out in.
+
+Heading in he pushed open the main door to a near deafening creak from the aged rusted hinges. After walking in a voice from the upper rafters could be heard
+"I know who you are and what you want and you won't get my help without the opal necklace from the jewellers."
+if you have opal recruit the sneak if not go to bruiser via descriptive scene
+
+after recruiting sneak gain +50 gold.
+
+Now that he has his main man to carry out the petty tasks he could focus on the big prize. The Gorgon's Eye emerald. 

@@ -4,9 +4,9 @@ using System.Collections;
 public class GameDataScript : MonoBehaviour {
 
 	public static string playerName="";
-	public static int food=0;
+	public static int food=10;
 	public static int health =10;
-	public static int gold = 0;
+	public static int gold = 10;
 	public static int sword = 0;
 	public static int potion = 0;
 	public die1Value currentValue;
