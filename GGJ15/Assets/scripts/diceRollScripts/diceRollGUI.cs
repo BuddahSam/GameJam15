@@ -13,7 +13,7 @@ public class diceRollGUI : MonoBehaviour {
 	void OnGUI()
 	{
 				GUI.skin = skin;
-		
+
 				GUI.DrawTexture (new Rect (0, 0, 175, 250), backGroundTexture);
 
 		GUI.DrawTexture (new Rect (10, 20, 60, 60), healthTexture);

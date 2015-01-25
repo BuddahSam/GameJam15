@@ -1,27 +1,28 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class dieMovmentDetector : MonoBehaviour {
+public class foodRollDiceMovement : MonoBehaviour {
 	public static float deltaV = 0.1f;
 	public object die;
 	public static bool grounded = false;
 	public Transform groundCheck;
 	public GameObject whatIsGround;
-
+	
 	// Use this for initialization
 	void Start () {
-				
-		}
+		
+	}
 	
 	// Update is called once per frame
 	void Update () {
 		
 		
 		
-		if (grounded && rigidbody.velocity.magnitude < dieMovmentDetector.deltaV) {
+		if (grounded && rigidbody.velocity.magnitude < foodRollDiceMovement.deltaV) {
 			{
 				StartCoroutine(DiceTimer());
 
+				
 			}
 		}
 		
@@ -47,9 +48,11 @@ public class dieMovmentDetector : MonoBehaviour {
 	IEnumerator DiceTimer(){
 		yield return new WaitForSeconds (2);
 		//Debug.Log(die1Value.currentValue);
+		GameDataScript.food = die1Value.currentValue;
+		Application.LoadLevel("goldDetermine");
 		
 	}
 	
 	
 	
-} 	
+} 

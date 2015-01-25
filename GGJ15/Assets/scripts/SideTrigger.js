@@ -8,6 +8,6 @@ dieGameObject = GameObject.Find("SixSidedDie");
 //dieValueComponent.currentValue = faceValue;
 
 //Debug.Log(faceValue);
-dieValue.currentValue = faceValue;
+die1Value.currentValue = faceValue;
 
 }

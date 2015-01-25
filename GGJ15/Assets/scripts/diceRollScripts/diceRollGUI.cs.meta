@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 65665bbfc64721047af6a66cc6b6d362
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backGroundTexture: {fileID: 2800000, guid: fc3033f994b82c04499ef1ec94cf9446, type: 3}
+  - skin: {instanceID: 0}
+  - healthTexture: {fileID: 2800000, guid: a8e3b01726335b84787271d170f94c49, type: 3}
+  - foodTexture: {fileID: 2800000, guid: 391705274771efe489e59df5da2c5dbe, type: 3}
+  - goldTexture: {fileID: 2800000, guid: de20cdb86412b4b479be7b61a6084fa1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

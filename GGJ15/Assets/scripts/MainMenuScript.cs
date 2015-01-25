@@ -31,7 +31,7 @@ public class MainMenuScript : MonoBehaviour {
 		                        buttonYposition, buttonWidth, buttonHeight), "start")) {
 								GameDataScript.playerName = nameText;
 
-						Application.LoadLevel ("tavernScene");
+						Application.LoadLevel ("foodDetermine");
 				}
 						buttonYposition += buttonSpacing;
 

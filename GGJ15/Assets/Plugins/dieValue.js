@@ -1,4 +1,4 @@
-﻿public class dieValue
+﻿public class die1Value
 {
-	public static var currentValue : float = 50;
+	public static var currentValue : int = 0;
 }
