@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3c89f97927ebb8e4cb01767b2b79a32f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backGroundTexture: {fileID: 2800000, guid: fc3033f994b82c04499ef1ec94cf9446, type: 3}
+  - skin: {instanceID: 0}
+  - healthTexture: {fileID: 2800000, guid: a8e3b01726335b84787271d170f94c49, type: 3}
+  - enemyHealthTexture: {fileID: 2800000, guid: a8e3b01726335b84787271d170f94c49,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

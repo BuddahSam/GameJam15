@@ -41,7 +41,7 @@ public class townScript : MonoBehaviour {
 			{
 				//Debug.Log ("Insufficient Gold");
 			}
-			else if (GameDataScript.sword >= 1)
+			else if (GameDataScript.sword >= 3)
 			{
 				//Debug.Log ("You got a better sword");
 			}
@@ -49,7 +49,7 @@ public class townScript : MonoBehaviour {
 			else 
 			{
 				GameDataScript.gold -= 30;
-				GameDataScript.sword ++;
+				GameDataScript.sword = 5;
 				//Debug.Log (GameDataScript.sword);
 			}
 				
