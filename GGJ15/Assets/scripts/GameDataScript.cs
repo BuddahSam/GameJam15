@@ -9,10 +9,15 @@ public class GameDataScript : MonoBehaviour {
 	public static int gold = 0;
 	public static int sword = 0;
 	public static int potion = 0;
+	public dieValue currentValue;
+
 
 	// Use this for initialization
 	void Start () {
+		Debug.Log (dieValue.currentValue);
+
 		
+
 		//telling the game to keep this data	
 		DontDestroyOnLoad(this);
 		

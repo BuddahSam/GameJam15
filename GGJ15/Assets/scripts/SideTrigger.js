@@ -4,10 +4,10 @@ function OnTriggerEnter( other : Collider ) {
 
 dieGameObject = GameObject.Find("SixSidedDie");
 
-dieValueComponent = dieGameObject.GetComponent("DieValue");
+//dieValueComponent = dieGameObject.GetComponent("DieValue");
+//dieValueComponent.currentValue = faceValue;
 
-dieValueComponent.currentValue = faceValue;
-
-Debug.Log(faceValue);
+//Debug.Log(faceValue);
+dieValue.currentValue = faceValue;
 
 }

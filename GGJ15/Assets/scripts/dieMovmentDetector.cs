@@ -45,6 +45,10 @@ public class dieMovmentDetector : MonoBehaviour {
 
 			IEnumerator DiceTimer(){
 				yield return new WaitForSeconds (2);
-		Debug.Log ("FUUUUUUCK");
+		Debug.Log(dieValue.currentValue);
+
 			}
+
+
+
 } 	

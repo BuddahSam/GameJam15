@@ -1,1 +1,0 @@
-﻿public var currentValue2 = 0;
