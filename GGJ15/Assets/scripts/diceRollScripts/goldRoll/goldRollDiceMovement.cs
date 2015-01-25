@@ -49,7 +49,7 @@ public class goldRollDiceMovement : MonoBehaviour {
 		yield return new WaitForSeconds (2);
 		//Debug.Log(die1Value.currentValue);
 		GameDataScript.gold = 5 * die1Value.currentValue;
-		Application.LoadLevel("tavernScene");
+		Application.LoadLevel("dragonStartScene");
 		
 	}
 	

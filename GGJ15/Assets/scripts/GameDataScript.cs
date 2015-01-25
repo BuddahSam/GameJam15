@@ -21,7 +21,7 @@ public class GameDataScript : MonoBehaviour {
 		
 
 		//telling the game to keep this data	
-		DontDestroyOnLoad(this);
+
 		
 	}
 	
